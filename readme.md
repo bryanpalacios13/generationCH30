@@ -3,7 +3,7 @@
 Aqui se presentan nuevos comentarios de CH30
 Holi
 =======
-
+Hola Bryan del pasado
 Repositorio donde se muestra las p´racticas
 realizadas en el bootcamp de generation
 
