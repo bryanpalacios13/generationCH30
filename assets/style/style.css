@@ -1,0 +1,10 @@
+/* Este es un selector de etiqueta */
+body {
+    background-image: url("../img/papelPintado.jpg");
+    font-family: Franklin Gothic Medium;
+}
+
+h1{
+    color:rgb(55, 15, 12);
+    text-align: center;
+}
